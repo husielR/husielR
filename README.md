@@ -28,8 +28,3 @@
 - 📊 Construyendo flujos de datos con **Apache NiFi, Kafka y KStreams**.
 - ☁️ Explorando analítica y almacenamiento en la nube con **Microsoft Azure** y visualización en **Power BI**.
 - 🐧 Configurando redes seguras e infraestructura con **Tailscale y WireGuard**.
-
-### 📈 Mis Estadísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=husielR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-</div>
